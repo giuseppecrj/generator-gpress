@@ -33,6 +33,9 @@ Finally, initiate the generator:
 
 ```bash
 yo gpress
+yo gpress:server:controller name
+yo gpress:server:model name
+yo gpress:server:route name
 ```
 
 ### Getting To Know Yeoman
