@@ -1,4 +1,4 @@
-# generator-gpress [![Build Status](https://secure.travis-ci.org/giusepperj/generator-gpress.png?branch=master)](https://travis-ci.org/giusepperj/generator-gpress)
+# generator-gpress
 
 > [Yeoman](http://yeoman.io) generator
 
